@@ -1330,6 +1330,54 @@
           "MultiTypeList": null
         }
       ]
+    },
+    {
+      "DevIndex": "4",
+      "S_link": 9,
+      "S_linkDev": 5,
+      "data": [
+        {
+          "ModbusCmd": 3,
+          "StoreRegStartAddr": 1,
+          "DataItemCount": 6,
+          "SlaveDevAddr": 20,
+          "ModbusRegAddr": 9,
+          "GetRegCount": 6,
+          "AreaNum": 0,
+          "DataProperty": 1,
+          "DataType": "ModbusDataType_u16",
+          "DataTypeEnum": 1,
+          "LowAddr": 9,
+          "HighAddr": 14,
+          "DataFormat": 0,
+          "KeyDec": [
+            "空气温度",
+            "空气湿度",
+            "大气压强",
+            "风速",
+            "风向",
+            "连续雨量"
+          ],
+          "KeyMode": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "KeyCoe": [
+            0.01,
+            0.01,
+            0.1,
+            0.01,
+            0.1,
+            0.1
+          ],
+          "DataType_Bit": null,
+          "MultiTypeList": null
+        }
+      ]
     }
   ]
 }

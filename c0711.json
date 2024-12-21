@@ -1,6 +1,6 @@
 {
   "Pad": {
-    "TotalYcCount": 56,
+    "TotalYcCount": 62,
     "TotalYxCount": 22,
     "TotalYkCount": 18,
     "TotalDDCount": 9,
@@ -452,7 +452,7 @@
       "Unit": null,
       "Addr": 16385,
       "Xishu": 1.0,
-      "RealDevNo": 1215,
+      "RealDevNo": 1221,
       "type": 1,
       "Idx": 0
     },
@@ -462,7 +462,7 @@
       "Unit": null,
       "Addr": 16386,
       "Xishu": 1.0,
-      "RealDevNo": 1216,
+      "RealDevNo": 1222,
       "type": 1,
       "Idx": 1
     },
@@ -472,7 +472,7 @@
       "Unit": null,
       "Addr": 16387,
       "Xishu": 1.0,
-      "RealDevNo": 1217,
+      "RealDevNo": 1223,
       "type": 1,
       "Idx": 2
     },
@@ -482,7 +482,7 @@
       "Unit": null,
       "Addr": 16388,
       "Xishu": 1.0,
-      "RealDevNo": 1200,
+      "RealDevNo": 1206,
       "type": 1,
       "Idx": 3
     },
@@ -492,7 +492,7 @@
       "Unit": null,
       "Addr": 16389,
       "Xishu": 1.0,
-      "RealDevNo": 1201,
+      "RealDevNo": 1207,
       "type": 1,
       "Idx": 4
     },
@@ -502,7 +502,7 @@
       "Unit": null,
       "Addr": 16390,
       "Xishu": 1.0,
-      "RealDevNo": 1202,
+      "RealDevNo": 1208,
       "type": 1,
       "Idx": 5
     },
@@ -512,7 +512,7 @@
       "Unit": null,
       "Addr": 16391,
       "Xishu": 1.0,
-      "RealDevNo": 1206,
+      "RealDevNo": 1212,
       "type": 1,
       "Idx": 6
     },
@@ -522,7 +522,7 @@
       "Unit": null,
       "Addr": 16392,
       "Xishu": 1.0,
-      "RealDevNo": 1203,
+      "RealDevNo": 1209,
       "type": 1,
       "Idx": 7
     },
@@ -532,7 +532,7 @@
       "Unit": null,
       "Addr": 16393,
       "Xishu": 1.0,
-      "RealDevNo": 1204,
+      "RealDevNo": 1210,
       "type": 1,
       "Idx": 8
     },
@@ -542,7 +542,7 @@
       "Unit": null,
       "Addr": 16394,
       "Xishu": 1.0,
-      "RealDevNo": 1205,
+      "RealDevNo": 1211,
       "type": 1,
       "Idx": 9
     },
@@ -552,7 +552,7 @@
       "Unit": null,
       "Addr": 16395,
       "Xishu": 1.0,
-      "RealDevNo": 1210,
+      "RealDevNo": 1216,
       "type": 1,
       "Idx": 10
     },
@@ -562,7 +562,7 @@
       "Unit": null,
       "Addr": 16396,
       "Xishu": 1.0,
-      "RealDevNo": 1207,
+      "RealDevNo": 1213,
       "type": 1,
       "Idx": 11
     },
@@ -572,7 +572,7 @@
       "Unit": null,
       "Addr": 16397,
       "Xishu": 1.0,
-      "RealDevNo": 1208,
+      "RealDevNo": 1214,
       "type": 1,
       "Idx": 12
     },
@@ -582,7 +582,7 @@
       "Unit": null,
       "Addr": 16398,
       "Xishu": 1.0,
-      "RealDevNo": 1209,
+      "RealDevNo": 1215,
       "type": 1,
       "Idx": 13
     },
@@ -592,7 +592,7 @@
       "Unit": null,
       "Addr": 16399,
       "Xishu": 1.0,
-      "RealDevNo": 1211,
+      "RealDevNo": 1217,
       "type": 1,
       "Idx": 14
     },
@@ -602,7 +602,7 @@
       "Unit": null,
       "Addr": 16400,
       "Xishu": 1.0,
-      "RealDevNo": 1199,
+      "RealDevNo": 1205,
       "type": 1,
       "Idx": 15
     },
@@ -1005,6 +1005,66 @@
       "RealDevNo": 1158,
       "type": 1,
       "Idx": 55
+    },
+    {
+      "No": 56,
+      "Name": "设备[5]-空气温度",
+      "Unit": null,
+      "Addr": 16441,
+      "Xishu": 1.0,
+      "RealDevNo": 1159,
+      "type": 1,
+      "Idx": 56
+    },
+    {
+      "No": 57,
+      "Name": "设备[5]-空气湿度",
+      "Unit": null,
+      "Addr": 16442,
+      "Xishu": 1.0,
+      "RealDevNo": 1160,
+      "type": 1,
+      "Idx": 57
+    },
+    {
+      "No": 58,
+      "Name": "设备[5]-大气压强",
+      "Unit": null,
+      "Addr": 16443,
+      "Xishu": 1.0,
+      "RealDevNo": 1161,
+      "type": 1,
+      "Idx": 58
+    },
+    {
+      "No": 59,
+      "Name": "设备[5]-风速",
+      "Unit": null,
+      "Addr": 16444,
+      "Xishu": 1.0,
+      "RealDevNo": 1162,
+      "type": 1,
+      "Idx": 59
+    },
+    {
+      "No": 60,
+      "Name": "设备[5]-风向",
+      "Unit": null,
+      "Addr": 16445,
+      "Xishu": 1.0,
+      "RealDevNo": 1163,
+      "type": 1,
+      "Idx": 60
+    },
+    {
+      "No": 61,
+      "Name": "设备[5]-连续雨量",
+      "Unit": null,
+      "Addr": 16446,
+      "Xishu": 1.0,
+      "RealDevNo": 1164,
+      "type": 1,
+      "Idx": 61
     }
   ],
   "YXDataItem": [
