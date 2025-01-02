@@ -1,7 +1,7 @@
 {
   "Pad": {
     "TotalYcCount": 282,
-    "TotalYxCount": 52,
+    "TotalYxCount": 190,
     "TotalYkCount": 18,
     "TotalDDCount": 9,
     "TotalParameterCount": 0,
@@ -3787,6 +3787,1386 @@
       "RealDevNo": 597,
       "type": 0,
       "Idx": 51
+    },
+    {
+      "No": 52,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 53,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 52
+    },
+    {
+      "No": 53,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 54,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 53
+    },
+    {
+      "No": 54,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 55,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 54
+    },
+    {
+      "No": 55,
+      "Name": "设备[1]-逆变器2-运行",
+      "Unit": null,
+      "Addr": 56,
+      "Xishu": 1.0,
+      "RealDevNo": 498,
+      "type": 0,
+      "Idx": 55
+    },
+    {
+      "No": 56,
+      "Name": "设备[1]-逆变器2-待机",
+      "Unit": null,
+      "Addr": 57,
+      "Xishu": 1.0,
+      "RealDevNo": 503,
+      "type": 0,
+      "Idx": 56
+    },
+    {
+      "No": 57,
+      "Name": "设备[1]-逆变器2-停机",
+      "Unit": null,
+      "Addr": 58,
+      "Xishu": 1.0,
+      "RealDevNo": 499,
+      "type": 0,
+      "Idx": 57
+    },
+    {
+      "No": 58,
+      "Name": "设备[1]-逆变器2-故障停机",
+      "Unit": null,
+      "Addr": 59,
+      "Xishu": 1.0,
+      "RealDevNo": 501,
+      "type": 0,
+      "Idx": 58
+    },
+    {
+      "No": 59,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 60,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 59
+    },
+    {
+      "No": 60,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 61,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 60
+    },
+    {
+      "No": 61,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 62,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 61
+    },
+    {
+      "No": 62,
+      "Name": "设备[0]-预留遥信24",
+      "Unit": null,
+      "Addr": 63,
+      "Xishu": 1.0,
+      "RealDevNo": 574,
+      "type": 0,
+      "Idx": 62
+    },
+    {
+      "No": 63,
+      "Name": "设备[0]-预留遥信25",
+      "Unit": null,
+      "Addr": 64,
+      "Xishu": 1.0,
+      "RealDevNo": 575,
+      "type": 0,
+      "Idx": 63
+    },
+    {
+      "No": 64,
+      "Name": "设备[0]-预留遥信26",
+      "Unit": null,
+      "Addr": 65,
+      "Xishu": 1.0,
+      "RealDevNo": 576,
+      "type": 0,
+      "Idx": 64
+    },
+    {
+      "No": 65,
+      "Name": "设备[0]-预留遥信27",
+      "Unit": null,
+      "Addr": 66,
+      "Xishu": 1.0,
+      "RealDevNo": 577,
+      "type": 0,
+      "Idx": 65
+    },
+    {
+      "No": 66,
+      "Name": "设备[2]-逆变器2-电网欠压",
+      "Unit": null,
+      "Addr": 67,
+      "Xishu": 1.0,
+      "RealDevNo": 1232,
+      "type": 0,
+      "Idx": 66
+    },
+    {
+      "No": 67,
+      "Name": "设备[2]-逆变器2-电网过压",
+      "Unit": null,
+      "Addr": 68,
+      "Xishu": 1.0,
+      "RealDevNo": 1231,
+      "type": 0,
+      "Idx": 67
+    },
+    {
+      "No": 68,
+      "Name": "设备[2]-逆变器2-电网电压不平衡",
+      "Unit": null,
+      "Addr": 69,
+      "Xishu": 1.0,
+      "RealDevNo": 1244,
+      "type": 0,
+      "Idx": 68
+    },
+    {
+      "No": 69,
+      "Name": "设备[2]-逆变器2-电网过频",
+      "Unit": null,
+      "Addr": 70,
+      "Xishu": 1.0,
+      "RealDevNo": 1233,
+      "type": 0,
+      "Idx": 69
+    },
+    {
+      "No": 70,
+      "Name": "设备[2]-逆变器2-电网欠频",
+      "Unit": null,
+      "Addr": 71,
+      "Xishu": 1.0,
+      "RealDevNo": 1234,
+      "type": 0,
+      "Idx": 70
+    },
+    {
+      "No": 71,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 72,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 71
+    },
+    {
+      "No": 72,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 73,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 72
+    },
+    {
+      "No": 73,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 74,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 73
+    },
+    {
+      "No": 74,
+      "Name": "设备[0]-预留遥信24",
+      "Unit": null,
+      "Addr": 75,
+      "Xishu": 1.0,
+      "RealDevNo": 574,
+      "type": 0,
+      "Idx": 74
+    },
+    {
+      "No": 75,
+      "Name": "设备[0]-预留遥信25",
+      "Unit": null,
+      "Addr": 76,
+      "Xishu": 1.0,
+      "RealDevNo": 575,
+      "type": 0,
+      "Idx": 75
+    },
+    {
+      "No": 76,
+      "Name": "设备[0]-预留遥信26",
+      "Unit": null,
+      "Addr": 77,
+      "Xishu": 1.0,
+      "RealDevNo": 576,
+      "type": 0,
+      "Idx": 76
+    },
+    {
+      "No": 77,
+      "Name": "设备[0]-预留遥信27",
+      "Unit": null,
+      "Addr": 78,
+      "Xishu": 1.0,
+      "RealDevNo": 577,
+      "type": 0,
+      "Idx": 77
+    },
+    {
+      "No": 78,
+      "Name": "设备[0]-预留遥信28",
+      "Unit": null,
+      "Addr": 79,
+      "Xishu": 1.0,
+      "RealDevNo": 578,
+      "type": 0,
+      "Idx": 78
+    },
+    {
+      "No": 79,
+      "Name": "设备[0]-预留遥信29",
+      "Unit": null,
+      "Addr": 80,
+      "Xishu": 1.0,
+      "RealDevNo": 579,
+      "type": 0,
+      "Idx": 79
+    },
+    {
+      "No": 80,
+      "Name": "设备[0]-预留遥信30",
+      "Unit": null,
+      "Addr": 81,
+      "Xishu": 1.0,
+      "RealDevNo": 580,
+      "type": 0,
+      "Idx": 80
+    },
+    {
+      "No": 81,
+      "Name": "设备[0]-预留遥信31",
+      "Unit": null,
+      "Addr": 82,
+      "Xishu": 1.0,
+      "RealDevNo": 581,
+      "type": 0,
+      "Idx": 81
+    },
+    {
+      "No": 82,
+      "Name": "设备[0]-预留遥信32",
+      "Unit": null,
+      "Addr": 83,
+      "Xishu": 1.0,
+      "RealDevNo": 582,
+      "type": 0,
+      "Idx": 82
+    },
+    {
+      "No": 83,
+      "Name": "设备[0]-预留遥信33",
+      "Unit": null,
+      "Addr": 84,
+      "Xishu": 1.0,
+      "RealDevNo": 583,
+      "type": 0,
+      "Idx": 83
+    },
+    {
+      "No": 84,
+      "Name": "设备[0]-预留遥信34",
+      "Unit": null,
+      "Addr": 85,
+      "Xishu": 1.0,
+      "RealDevNo": 584,
+      "type": 0,
+      "Idx": 84
+    },
+    {
+      "No": 85,
+      "Name": "设备[0]-预留遥信35",
+      "Unit": null,
+      "Addr": 86,
+      "Xishu": 1.0,
+      "RealDevNo": 585,
+      "type": 0,
+      "Idx": 85
+    },
+    {
+      "No": 86,
+      "Name": "设备[0]-预留遥信36",
+      "Unit": null,
+      "Addr": 87,
+      "Xishu": 1.0,
+      "RealDevNo": 586,
+      "type": 0,
+      "Idx": 86
+    },
+    {
+      "No": 87,
+      "Name": "设备[0]-预留遥信37",
+      "Unit": null,
+      "Addr": 88,
+      "Xishu": 1.0,
+      "RealDevNo": 587,
+      "type": 0,
+      "Idx": 87
+    },
+    {
+      "No": 88,
+      "Name": "设备[0]-预留遥信38",
+      "Unit": null,
+      "Addr": 89,
+      "Xishu": 1.0,
+      "RealDevNo": 588,
+      "type": 0,
+      "Idx": 88
+    },
+    {
+      "No": 89,
+      "Name": "设备[0]-预留遥信39",
+      "Unit": null,
+      "Addr": 90,
+      "Xishu": 1.0,
+      "RealDevNo": 589,
+      "type": 0,
+      "Idx": 89
+    },
+    {
+      "No": 90,
+      "Name": "设备[0]-预留遥信40",
+      "Unit": null,
+      "Addr": 91,
+      "Xishu": 1.0,
+      "RealDevNo": 590,
+      "type": 0,
+      "Idx": 90
+    },
+    {
+      "No": 91,
+      "Name": "设备[0]-预留遥信41",
+      "Unit": null,
+      "Addr": 92,
+      "Xishu": 1.0,
+      "RealDevNo": 591,
+      "type": 0,
+      "Idx": 91
+    },
+    {
+      "No": 92,
+      "Name": "设备[0]-预留遥信42",
+      "Unit": null,
+      "Addr": 93,
+      "Xishu": 1.0,
+      "RealDevNo": 592,
+      "type": 0,
+      "Idx": 92
+    },
+    {
+      "No": 93,
+      "Name": "设备[0]-预留遥信43",
+      "Unit": null,
+      "Addr": 94,
+      "Xishu": 1.0,
+      "RealDevNo": 593,
+      "type": 0,
+      "Idx": 93
+    },
+    {
+      "No": 94,
+      "Name": "设备[0]-预留遥信44",
+      "Unit": null,
+      "Addr": 95,
+      "Xishu": 1.0,
+      "RealDevNo": 594,
+      "type": 0,
+      "Idx": 94
+    },
+    {
+      "No": 95,
+      "Name": "设备[0]-预留遥信45",
+      "Unit": null,
+      "Addr": 96,
+      "Xishu": 1.0,
+      "RealDevNo": 595,
+      "type": 0,
+      "Idx": 95
+    },
+    {
+      "No": 96,
+      "Name": "设备[0]-预留遥信46",
+      "Unit": null,
+      "Addr": 97,
+      "Xishu": 1.0,
+      "RealDevNo": 596,
+      "type": 0,
+      "Idx": 96
+    },
+    {
+      "No": 97,
+      "Name": "设备[0]-预留遥信47",
+      "Unit": null,
+      "Addr": 98,
+      "Xishu": 1.0,
+      "RealDevNo": 597,
+      "type": 0,
+      "Idx": 97
+    },
+    {
+      "No": 98,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 99,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 98
+    },
+    {
+      "No": 99,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 100,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 99
+    },
+    {
+      "No": 100,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 101,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 100
+    },
+    {
+      "No": 101,
+      "Name": "设备[2]-逆变器3-运行",
+      "Unit": null,
+      "Addr": 102,
+      "Xishu": 1.0,
+      "RealDevNo": 504,
+      "type": 0,
+      "Idx": 101
+    },
+    {
+      "No": 102,
+      "Name": "设备[2]-逆变器3-待机",
+      "Unit": null,
+      "Addr": 103,
+      "Xishu": 1.0,
+      "RealDevNo": 509,
+      "type": 0,
+      "Idx": 102
+    },
+    {
+      "No": 103,
+      "Name": "设备[2]-逆变器3-停机",
+      "Unit": null,
+      "Addr": 104,
+      "Xishu": 1.0,
+      "RealDevNo": 505,
+      "type": 0,
+      "Idx": 103
+    },
+    {
+      "No": 104,
+      "Name": "设备[2]-逆变器3-故障停机",
+      "Unit": null,
+      "Addr": 105,
+      "Xishu": 1.0,
+      "RealDevNo": 507,
+      "type": 0,
+      "Idx": 104
+    },
+    {
+      "No": 105,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 106,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 105
+    },
+    {
+      "No": 106,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 107,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 106
+    },
+    {
+      "No": 107,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 108,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 107
+    },
+    {
+      "No": 108,
+      "Name": "设备[0]-预留遥信24",
+      "Unit": null,
+      "Addr": 109,
+      "Xishu": 1.0,
+      "RealDevNo": 574,
+      "type": 0,
+      "Idx": 108
+    },
+    {
+      "No": 109,
+      "Name": "设备[0]-预留遥信25",
+      "Unit": null,
+      "Addr": 110,
+      "Xishu": 1.0,
+      "RealDevNo": 575,
+      "type": 0,
+      "Idx": 109
+    },
+    {
+      "No": 110,
+      "Name": "设备[0]-预留遥信26",
+      "Unit": null,
+      "Addr": 111,
+      "Xishu": 1.0,
+      "RealDevNo": 576,
+      "type": 0,
+      "Idx": 110
+    },
+    {
+      "No": 111,
+      "Name": "设备[0]-预留遥信27",
+      "Unit": null,
+      "Addr": 112,
+      "Xishu": 1.0,
+      "RealDevNo": 577,
+      "type": 0,
+      "Idx": 111
+    },
+    {
+      "No": 112,
+      "Name": "设备[3]-逆变器3-电网欠压",
+      "Unit": null,
+      "Addr": 113,
+      "Xishu": 1.0,
+      "RealDevNo": 1320,
+      "type": 0,
+      "Idx": 112
+    },
+    {
+      "No": 113,
+      "Name": "设备[3]-逆变器3-电网过压",
+      "Unit": null,
+      "Addr": 114,
+      "Xishu": 1.0,
+      "RealDevNo": 1319,
+      "type": 0,
+      "Idx": 113
+    },
+    {
+      "No": 114,
+      "Name": "设备[3]-逆变器3-电网电压不平衡",
+      "Unit": null,
+      "Addr": 115,
+      "Xishu": 1.0,
+      "RealDevNo": 1332,
+      "type": 0,
+      "Idx": 114
+    },
+    {
+      "No": 115,
+      "Name": "设备[3]-逆变器3-电网过频",
+      "Unit": null,
+      "Addr": 116,
+      "Xishu": 1.0,
+      "RealDevNo": 1321,
+      "type": 0,
+      "Idx": 115
+    },
+    {
+      "No": 116,
+      "Name": "设备[3]-逆变器3-电网欠频",
+      "Unit": null,
+      "Addr": 117,
+      "Xishu": 1.0,
+      "RealDevNo": 1322,
+      "type": 0,
+      "Idx": 116
+    },
+    {
+      "No": 117,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 118,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 117
+    },
+    {
+      "No": 118,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 119,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 118
+    },
+    {
+      "No": 119,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 120,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 119
+    },
+    {
+      "No": 120,
+      "Name": "设备[0]-预留遥信24",
+      "Unit": null,
+      "Addr": 121,
+      "Xishu": 1.0,
+      "RealDevNo": 574,
+      "type": 0,
+      "Idx": 120
+    },
+    {
+      "No": 121,
+      "Name": "设备[0]-预留遥信25",
+      "Unit": null,
+      "Addr": 122,
+      "Xishu": 1.0,
+      "RealDevNo": 575,
+      "type": 0,
+      "Idx": 121
+    },
+    {
+      "No": 122,
+      "Name": "设备[0]-预留遥信26",
+      "Unit": null,
+      "Addr": 123,
+      "Xishu": 1.0,
+      "RealDevNo": 576,
+      "type": 0,
+      "Idx": 122
+    },
+    {
+      "No": 123,
+      "Name": "设备[0]-预留遥信27",
+      "Unit": null,
+      "Addr": 124,
+      "Xishu": 1.0,
+      "RealDevNo": 577,
+      "type": 0,
+      "Idx": 123
+    },
+    {
+      "No": 124,
+      "Name": "设备[0]-预留遥信28",
+      "Unit": null,
+      "Addr": 125,
+      "Xishu": 1.0,
+      "RealDevNo": 578,
+      "type": 0,
+      "Idx": 124
+    },
+    {
+      "No": 125,
+      "Name": "设备[0]-预留遥信29",
+      "Unit": null,
+      "Addr": 126,
+      "Xishu": 1.0,
+      "RealDevNo": 579,
+      "type": 0,
+      "Idx": 125
+    },
+    {
+      "No": 126,
+      "Name": "设备[0]-预留遥信30",
+      "Unit": null,
+      "Addr": 127,
+      "Xishu": 1.0,
+      "RealDevNo": 580,
+      "type": 0,
+      "Idx": 126
+    },
+    {
+      "No": 127,
+      "Name": "设备[0]-预留遥信31",
+      "Unit": null,
+      "Addr": 128,
+      "Xishu": 1.0,
+      "RealDevNo": 581,
+      "type": 0,
+      "Idx": 127
+    },
+    {
+      "No": 128,
+      "Name": "设备[0]-预留遥信32",
+      "Unit": null,
+      "Addr": 129,
+      "Xishu": 1.0,
+      "RealDevNo": 582,
+      "type": 0,
+      "Idx": 128
+    },
+    {
+      "No": 129,
+      "Name": "设备[0]-预留遥信33",
+      "Unit": null,
+      "Addr": 130,
+      "Xishu": 1.0,
+      "RealDevNo": 583,
+      "type": 0,
+      "Idx": 129
+    },
+    {
+      "No": 130,
+      "Name": "设备[0]-预留遥信34",
+      "Unit": null,
+      "Addr": 131,
+      "Xishu": 1.0,
+      "RealDevNo": 584,
+      "type": 0,
+      "Idx": 130
+    },
+    {
+      "No": 131,
+      "Name": "设备[0]-预留遥信35",
+      "Unit": null,
+      "Addr": 132,
+      "Xishu": 1.0,
+      "RealDevNo": 585,
+      "type": 0,
+      "Idx": 131
+    },
+    {
+      "No": 132,
+      "Name": "设备[0]-预留遥信36",
+      "Unit": null,
+      "Addr": 133,
+      "Xishu": 1.0,
+      "RealDevNo": 586,
+      "type": 0,
+      "Idx": 132
+    },
+    {
+      "No": 133,
+      "Name": "设备[0]-预留遥信37",
+      "Unit": null,
+      "Addr": 134,
+      "Xishu": 1.0,
+      "RealDevNo": 587,
+      "type": 0,
+      "Idx": 133
+    },
+    {
+      "No": 134,
+      "Name": "设备[0]-预留遥信38",
+      "Unit": null,
+      "Addr": 135,
+      "Xishu": 1.0,
+      "RealDevNo": 588,
+      "type": 0,
+      "Idx": 134
+    },
+    {
+      "No": 135,
+      "Name": "设备[0]-预留遥信39",
+      "Unit": null,
+      "Addr": 136,
+      "Xishu": 1.0,
+      "RealDevNo": 589,
+      "type": 0,
+      "Idx": 135
+    },
+    {
+      "No": 136,
+      "Name": "设备[0]-预留遥信40",
+      "Unit": null,
+      "Addr": 137,
+      "Xishu": 1.0,
+      "RealDevNo": 590,
+      "type": 0,
+      "Idx": 136
+    },
+    {
+      "No": 137,
+      "Name": "设备[0]-预留遥信41",
+      "Unit": null,
+      "Addr": 138,
+      "Xishu": 1.0,
+      "RealDevNo": 591,
+      "type": 0,
+      "Idx": 137
+    },
+    {
+      "No": 138,
+      "Name": "设备[0]-预留遥信42",
+      "Unit": null,
+      "Addr": 139,
+      "Xishu": 1.0,
+      "RealDevNo": 592,
+      "type": 0,
+      "Idx": 138
+    },
+    {
+      "No": 139,
+      "Name": "设备[0]-预留遥信43",
+      "Unit": null,
+      "Addr": 140,
+      "Xishu": 1.0,
+      "RealDevNo": 593,
+      "type": 0,
+      "Idx": 139
+    },
+    {
+      "No": 140,
+      "Name": "设备[0]-预留遥信44",
+      "Unit": null,
+      "Addr": 141,
+      "Xishu": 1.0,
+      "RealDevNo": 594,
+      "type": 0,
+      "Idx": 140
+    },
+    {
+      "No": 141,
+      "Name": "设备[0]-预留遥信45",
+      "Unit": null,
+      "Addr": 142,
+      "Xishu": 1.0,
+      "RealDevNo": 595,
+      "type": 0,
+      "Idx": 141
+    },
+    {
+      "No": 142,
+      "Name": "设备[0]-预留遥信46",
+      "Unit": null,
+      "Addr": 143,
+      "Xishu": 1.0,
+      "RealDevNo": 596,
+      "type": 0,
+      "Idx": 142
+    },
+    {
+      "No": 143,
+      "Name": "设备[0]-预留遥信47",
+      "Unit": null,
+      "Addr": 144,
+      "Xishu": 1.0,
+      "RealDevNo": 597,
+      "type": 0,
+      "Idx": 143
+    },
+    {
+      "No": 144,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 145,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 144
+    },
+    {
+      "No": 145,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 146,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 145
+    },
+    {
+      "No": 146,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 147,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 146
+    },
+    {
+      "No": 147,
+      "Name": "设备[3]-逆变器4-运行",
+      "Unit": null,
+      "Addr": 148,
+      "Xishu": 1.0,
+      "RealDevNo": 510,
+      "type": 0,
+      "Idx": 147
+    },
+    {
+      "No": 148,
+      "Name": "设备[3]-逆变器4-待机",
+      "Unit": null,
+      "Addr": 149,
+      "Xishu": 1.0,
+      "RealDevNo": 515,
+      "type": 0,
+      "Idx": 148
+    },
+    {
+      "No": 149,
+      "Name": "设备[3]-逆变器4-停机",
+      "Unit": null,
+      "Addr": 150,
+      "Xishu": 1.0,
+      "RealDevNo": 511,
+      "type": 0,
+      "Idx": 149
+    },
+    {
+      "No": 150,
+      "Name": "设备[3]-逆变器4-故障停机",
+      "Unit": null,
+      "Addr": 151,
+      "Xishu": 1.0,
+      "RealDevNo": 513,
+      "type": 0,
+      "Idx": 150
+    },
+    {
+      "No": 151,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 152,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 151
+    },
+    {
+      "No": 152,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 153,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 152
+    },
+    {
+      "No": 153,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 154,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 153
+    },
+    {
+      "No": 154,
+      "Name": "设备[0]-预留遥信24",
+      "Unit": null,
+      "Addr": 155,
+      "Xishu": 1.0,
+      "RealDevNo": 574,
+      "type": 0,
+      "Idx": 154
+    },
+    {
+      "No": 155,
+      "Name": "设备[0]-预留遥信25",
+      "Unit": null,
+      "Addr": 156,
+      "Xishu": 1.0,
+      "RealDevNo": 575,
+      "type": 0,
+      "Idx": 155
+    },
+    {
+      "No": 156,
+      "Name": "设备[0]-预留遥信26",
+      "Unit": null,
+      "Addr": 157,
+      "Xishu": 1.0,
+      "RealDevNo": 576,
+      "type": 0,
+      "Idx": 156
+    },
+    {
+      "No": 157,
+      "Name": "设备[0]-预留遥信27",
+      "Unit": null,
+      "Addr": 158,
+      "Xishu": 1.0,
+      "RealDevNo": 577,
+      "type": 0,
+      "Idx": 157
+    },
+    {
+      "No": 158,
+      "Name": "设备[4]-逆变器4-电网欠压",
+      "Unit": null,
+      "Addr": 159,
+      "Xishu": 1.0,
+      "RealDevNo": 1408,
+      "type": 0,
+      "Idx": 158
+    },
+    {
+      "No": 159,
+      "Name": "设备[4]-逆变器4-电网过压",
+      "Unit": null,
+      "Addr": 160,
+      "Xishu": 1.0,
+      "RealDevNo": 1407,
+      "type": 0,
+      "Idx": 159
+    },
+    {
+      "No": 160,
+      "Name": "设备[4]-逆变器4-电网电压不平衡",
+      "Unit": null,
+      "Addr": 161,
+      "Xishu": 1.0,
+      "RealDevNo": 1420,
+      "type": 0,
+      "Idx": 160
+    },
+    {
+      "No": 161,
+      "Name": "设备[4]-逆变器4-电网过频",
+      "Unit": null,
+      "Addr": 162,
+      "Xishu": 1.0,
+      "RealDevNo": 1409,
+      "type": 0,
+      "Idx": 161
+    },
+    {
+      "No": 162,
+      "Name": "设备[4]-逆变器4-电网欠频",
+      "Unit": null,
+      "Addr": 163,
+      "Xishu": 1.0,
+      "RealDevNo": 1410,
+      "type": 0,
+      "Idx": 162
+    },
+    {
+      "No": 163,
+      "Name": "设备[0]-预留遥信21",
+      "Unit": null,
+      "Addr": 164,
+      "Xishu": 1.0,
+      "RealDevNo": 571,
+      "type": 0,
+      "Idx": 163
+    },
+    {
+      "No": 164,
+      "Name": "设备[0]-预留遥信22",
+      "Unit": null,
+      "Addr": 165,
+      "Xishu": 1.0,
+      "RealDevNo": 572,
+      "type": 0,
+      "Idx": 164
+    },
+    {
+      "No": 165,
+      "Name": "设备[0]-预留遥信23",
+      "Unit": null,
+      "Addr": 166,
+      "Xishu": 1.0,
+      "RealDevNo": 573,
+      "type": 0,
+      "Idx": 165
+    },
+    {
+      "No": 166,
+      "Name": "设备[0]-预留遥信24",
+      "Unit": null,
+      "Addr": 167,
+      "Xishu": 1.0,
+      "RealDevNo": 574,
+      "type": 0,
+      "Idx": 166
+    },
+    {
+      "No": 167,
+      "Name": "设备[0]-预留遥信25",
+      "Unit": null,
+      "Addr": 168,
+      "Xishu": 1.0,
+      "RealDevNo": 575,
+      "type": 0,
+      "Idx": 167
+    },
+    {
+      "No": 168,
+      "Name": "设备[0]-预留遥信26",
+      "Unit": null,
+      "Addr": 169,
+      "Xishu": 1.0,
+      "RealDevNo": 576,
+      "type": 0,
+      "Idx": 168
+    },
+    {
+      "No": 169,
+      "Name": "设备[0]-预留遥信27",
+      "Unit": null,
+      "Addr": 170,
+      "Xishu": 1.0,
+      "RealDevNo": 577,
+      "type": 0,
+      "Idx": 169
+    },
+    {
+      "No": 170,
+      "Name": "设备[0]-预留遥信28",
+      "Unit": null,
+      "Addr": 171,
+      "Xishu": 1.0,
+      "RealDevNo": 578,
+      "type": 0,
+      "Idx": 170
+    },
+    {
+      "No": 171,
+      "Name": "设备[0]-预留遥信29",
+      "Unit": null,
+      "Addr": 172,
+      "Xishu": 1.0,
+      "RealDevNo": 579,
+      "type": 0,
+      "Idx": 171
+    },
+    {
+      "No": 172,
+      "Name": "设备[0]-预留遥信30",
+      "Unit": null,
+      "Addr": 173,
+      "Xishu": 1.0,
+      "RealDevNo": 580,
+      "type": 0,
+      "Idx": 172
+    },
+    {
+      "No": 173,
+      "Name": "设备[0]-预留遥信31",
+      "Unit": null,
+      "Addr": 174,
+      "Xishu": 1.0,
+      "RealDevNo": 581,
+      "type": 0,
+      "Idx": 173
+    },
+    {
+      "No": 174,
+      "Name": "设备[0]-预留遥信32",
+      "Unit": null,
+      "Addr": 175,
+      "Xishu": 1.0,
+      "RealDevNo": 582,
+      "type": 0,
+      "Idx": 174
+    },
+    {
+      "No": 175,
+      "Name": "设备[0]-预留遥信33",
+      "Unit": null,
+      "Addr": 176,
+      "Xishu": 1.0,
+      "RealDevNo": 583,
+      "type": 0,
+      "Idx": 175
+    },
+    {
+      "No": 176,
+      "Name": "设备[0]-预留遥信34",
+      "Unit": null,
+      "Addr": 177,
+      "Xishu": 1.0,
+      "RealDevNo": 584,
+      "type": 0,
+      "Idx": 176
+    },
+    {
+      "No": 177,
+      "Name": "设备[0]-预留遥信35",
+      "Unit": null,
+      "Addr": 178,
+      "Xishu": 1.0,
+      "RealDevNo": 585,
+      "type": 0,
+      "Idx": 177
+    },
+    {
+      "No": 178,
+      "Name": "设备[0]-预留遥信36",
+      "Unit": null,
+      "Addr": 179,
+      "Xishu": 1.0,
+      "RealDevNo": 586,
+      "type": 0,
+      "Idx": 178
+    },
+    {
+      "No": 179,
+      "Name": "设备[0]-预留遥信37",
+      "Unit": null,
+      "Addr": 180,
+      "Xishu": 1.0,
+      "RealDevNo": 587,
+      "type": 0,
+      "Idx": 179
+    },
+    {
+      "No": 180,
+      "Name": "设备[0]-预留遥信38",
+      "Unit": null,
+      "Addr": 181,
+      "Xishu": 1.0,
+      "RealDevNo": 588,
+      "type": 0,
+      "Idx": 180
+    },
+    {
+      "No": 181,
+      "Name": "设备[0]-预留遥信39",
+      "Unit": null,
+      "Addr": 182,
+      "Xishu": 1.0,
+      "RealDevNo": 589,
+      "type": 0,
+      "Idx": 181
+    },
+    {
+      "No": 182,
+      "Name": "设备[0]-预留遥信40",
+      "Unit": null,
+      "Addr": 183,
+      "Xishu": 1.0,
+      "RealDevNo": 590,
+      "type": 0,
+      "Idx": 182
+    },
+    {
+      "No": 183,
+      "Name": "设备[0]-预留遥信41",
+      "Unit": null,
+      "Addr": 184,
+      "Xishu": 1.0,
+      "RealDevNo": 591,
+      "type": 0,
+      "Idx": 183
+    },
+    {
+      "No": 184,
+      "Name": "设备[0]-预留遥信42",
+      "Unit": null,
+      "Addr": 185,
+      "Xishu": 1.0,
+      "RealDevNo": 592,
+      "type": 0,
+      "Idx": 184
+    },
+    {
+      "No": 185,
+      "Name": "设备[0]-预留遥信43",
+      "Unit": null,
+      "Addr": 186,
+      "Xishu": 1.0,
+      "RealDevNo": 593,
+      "type": 0,
+      "Idx": 185
+    },
+    {
+      "No": 186,
+      "Name": "设备[0]-预留遥信44",
+      "Unit": null,
+      "Addr": 187,
+      "Xishu": 1.0,
+      "RealDevNo": 594,
+      "type": 0,
+      "Idx": 186
+    },
+    {
+      "No": 187,
+      "Name": "设备[0]-预留遥信45",
+      "Unit": null,
+      "Addr": 188,
+      "Xishu": 1.0,
+      "RealDevNo": 595,
+      "type": 0,
+      "Idx": 187
+    },
+    {
+      "No": 188,
+      "Name": "设备[0]-预留遥信46",
+      "Unit": null,
+      "Addr": 189,
+      "Xishu": 1.0,
+      "RealDevNo": 596,
+      "type": 0,
+      "Idx": 188
+    },
+    {
+      "No": 189,
+      "Name": "设备[0]-预留遥信47",
+      "Unit": null,
+      "Addr": 190,
+      "Xishu": 1.0,
+      "RealDevNo": 597,
+      "type": 0,
+      "Idx": 189
     }
   ],
   "YKDataItem": [
@@ -4014,7 +5394,7 @@
       "Unit": null,
       "Addr": 25601,
       "Xishu": 1.0,
-      "RealDevNo": 1198,
+      "RealDevNo": 1468,
       "type": 3,
       "Idx": 0
     },
@@ -4044,7 +5424,7 @@
       "Unit": null,
       "Addr": 25604,
       "Xishu": 1.0,
-      "RealDevNo": 1112,
+      "RealDevNo": 1178,
       "type": 3,
       "Idx": 3
     },
@@ -4054,7 +5434,7 @@
       "Unit": null,
       "Addr": 25605,
       "Xishu": 1.0,
-      "RealDevNo": 1113,
+      "RealDevNo": 1179,
       "type": 3,
       "Idx": 4
     },
@@ -4064,7 +5444,7 @@
       "Unit": null,
       "Addr": 25606,
       "Xishu": 1.0,
-      "RealDevNo": 1134,
+      "RealDevNo": 1266,
       "type": 3,
       "Idx": 5
     },
@@ -4074,7 +5454,7 @@
       "Unit": null,
       "Addr": 25607,
       "Xishu": 1.0,
-      "RealDevNo": 1135,
+      "RealDevNo": 1267,
       "type": 3,
       "Idx": 6
     },
@@ -4084,7 +5464,7 @@
       "Unit": null,
       "Addr": 25608,
       "Xishu": 1.0,
-      "RealDevNo": 1156,
+      "RealDevNo": 1354,
       "type": 3,
       "Idx": 7
     },
@@ -4094,7 +5474,7 @@
       "Unit": null,
       "Addr": 25609,
       "Xishu": 1.0,
-      "RealDevNo": 1157,
+      "RealDevNo": 1355,
       "type": 3,
       "Idx": 8
     }
