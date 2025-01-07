@@ -1,0 +1,99 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 0,
+  "TotalYxCount": 0,
+  "TotalYkCount": 0,
+  "TotalDDCount": 9,
+  "dataItem": [
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 3,
+      "Name": "并网点-正向有功总电能",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 3,
+      "Name": "逆变器1-日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 3,
+      "Name": "逆变器1-总发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 3,
+      "Name": "逆变器2-日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 3,
+      "Name": "逆变器2-总发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 5,
+      "type": 3,
+      "Name": "逆变器3-日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 6,
+      "type": 3,
+      "Name": "逆变器3-总发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 7,
+      "type": 3,
+      "Name": "逆变器4-日发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 15,
+      "devNo": 0,
+      "RegNo": 8,
+      "type": 3,
+      "Name": "逆变器4-总发电量",
+      "ModelName": null,
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}
