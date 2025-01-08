@@ -20443,7 +20443,7 @@
       "DevModelName": null,
       "DevDescription": null,
       "DevPort": null,
-      "Name": "YC0",
+      "Name": "空气温度",
       "Unit": null,
       "Ratio": 1.0,
       "DeadSet": 1.0,

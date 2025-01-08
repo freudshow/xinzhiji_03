@@ -4544,11 +4544,11 @@
     },
     {
       "No": 16,
-      "Name": "设备[5]-空气温度",
+      "Name": "设备[0]-空气温度",
       "Unit": null,
       "Addr": 16401,
       "Xishu": 1.0,
-      "RealDevNo": 1423,
+      "RealDevNo": 851,
       "type": 1,
       "Idx": 16
     },
